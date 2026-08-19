@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Undergradute Student of Computer Science at BINUS University @Alam Sutera <br>AI/ML Enthusiast <br>**
+**Undergradute Student of Computer Science at BINUS University @Alam Sutera <br>AI/ML Enthusiast <br> Python RPA Developer**
 
 
 ## 🌐 Socials:
