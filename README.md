@@ -1,8 +1,4 @@
-# 💫 About Me:
-- 🎓 **Computer Science Undergraduate** specializing in **Intelligent Systems (AI)** at BINUS University @Alam Sutera
-- 💼 Currently working as an **RPA & Machine Learning Developer Intern** 
-- 🔭 Published a IEEE paper 
-- ⚡ Fun fact: Rarely active, with many projects in local storage.
+# 💫 AI & AUTOMATION ENTHUSIAST
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brenalden10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenalden/)
