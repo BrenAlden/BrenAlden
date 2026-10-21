@@ -16,8 +16,6 @@
 
 - 🎓 Undergraduate Computer Science student at **Bina Nusantara University**
 - 🤖 Specialized in **Robotic Process Automation (RPA)** with Python & Selenium: SAP, Excel, and email workflow automation
-- 🧠 Developing **AI/ML models**: CNN, LSTM, and **Spiking Neural Networks (SNN)**
-- 🔬 Researching **ANN-SNN conversion** for my senior thesis
 - 📝 Author of a paper at **ICITCOM 2025** on deep learning & sketch recognition
 - ⚙️ Currently exploring **LLM-powered apps** and **n8n workflow automation**
 - 📍 Based in Tangerang, Indonesia 🇮🇩
