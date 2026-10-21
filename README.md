@@ -31,12 +31,6 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 📝 **[Quick, Draw! Sketch Recognition](https://github.com/YOUR_USERNAME/REPO_NAME)** | Research paper & case study: *"Analyzing Deep Learning in Quick, Draw!: A Case Study on Hand-drawn Sketch Recognition"* (ICITCOM 2025) | `Python` `TensorFlow` `CNN` |
-| 🔤 **[TenseSense](https://github.com/YOUR_USERNAME/REPO_NAME)** | AI-powered English tense detector | `Python` `scikit-learn` `SVM` |
-| 🗂️ **[File Organizer + Renamer Bot](https://github.com/YOUR_USERNAME/REPO_NAME)** | RPA that monitors the Downloads folder, classifies files, renames them by pattern, detects duplicates, and moves them to organized folders via a `rule.yaml` config | `Python` `RPA` `YAML` |
-| 🏠 **[Airbnb LLM Recommender](https://github.com/YOUR_USERNAME/REPO_NAME)** | LLM chatbot that recommends Airbnb listings in the Riau Islands (Batam focus) from natural-language queries | `Python` `LLM` `Pandas` |
-| 🔄 **[NotFlow](https://github.com/YOUR_USERNAME/REPO_NAME)** | n8n workflow that turns PDF, PPT, and DOCX files into easy-to-understand summaries and organizes them in Notion | `n8n` `LLM` `Notion` |
-| ⚡ **[ANN-SNN Conversion](https://github.com/YOUR_USERNAME/REPO_NAME)** | Senior thesis: ANN-SNN conversion with quantized ANNs and signed-multi threshold neurons on large-scale sketch data | `PyTorch` `SNN` |
 
 ---
 
@@ -56,23 +50,6 @@
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
-
-</div>
-
----
 
 <div align="center">
 
