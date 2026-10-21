@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E50A9,100:0066FF&height=200&section=header&text=Bren%20Alden&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Enthusiast&descSize=20&descAlignY=60" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=5E50A9&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+BINUS;RPA+%7C+AI+%7C+Machine+Learning;I+turn+repetitive+work+into+automation+%E2%9A%A1" alt="Typing SVG" />
 </a>
